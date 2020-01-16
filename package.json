@@ -100,7 +100,7 @@
     "ngrok": "2.2.4",
     "nodemon": "^1.9.2",
     "nyc": "10.0.0",
-    "open": "^0.0.5",
+    "open": "^6.0.0",
     "postcss-focus": "^1.0.0",
     "postcss-loader": "1.1.1",
     "postcss-reporter": "2.0.0",
