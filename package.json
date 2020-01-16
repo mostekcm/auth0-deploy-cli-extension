@@ -29,7 +29,7 @@
     "auth0-extension-express-tools": "2.0.0",
     "auth0-extension-tools": "1.0.0",
     "auth0-extension-ui": "0.14.0",
-    "axios": "^0.15.0",
+    "axios": "^0.18.1",
     "babel": "^6.5.2",
     "babel-core": "^6.9.1",
     "babel-plugin-transform-runtime": "^6.9.0",
