@@ -3360,14 +3360,15 @@ express-conditional-middleware@2.0.0:
   dependencies:
     once "1.4.0"
 
-express-jwt@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/express-jwt/-/express-jwt-3.1.0.tgz#2d7ef5982cd9215786fa3059d8c6debaa40185b7"
-  integrity sha1-LX71mCzZIVeG+jBZ2MbeuqQBhbc=
+express-jwt@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/express-jwt/-/express-jwt-6.0.0.tgz#20886c730983ffb1c706a4383235df86eff349b8"
+  integrity sha512-C26y9myRjx7CyhZ+BAT3p+gQyRCoDZ7qo8plCvLDaRT6je6ALIAQknT6XLVQGFKwIy/Ux7lvM2MNap5dt0T7gA==
   dependencies:
-    async "^0.9.0"
+    async "^1.5.0"
     express-unless "^0.3.0"
-    jsonwebtoken "^5.0.0"
+    jsonwebtoken "^8.1.0"
+    lodash.set "^4.0.0"
 
 express-jwt@^3.1.0:
   version "3.4.0"
@@ -5370,7 +5371,7 @@ jsonwebtoken@^7.1.9:
     ms "^2.0.0"
     xtend "^4.0.1"
 
-jsonwebtoken@^8.3.0, jsonwebtoken@^8.5.1:
+jsonwebtoken@^8.1.0, jsonwebtoken@^8.3.0, jsonwebtoken@^8.5.1:
   version "8.5.1"
   resolved "https://registry.yarnpkg.com/jsonwebtoken/-/jsonwebtoken-8.5.1.tgz#00e71e0b8df54c2121a1f26137df2280673bcc0d"
   integrity sha512-XjwVfRS6jTMsqYs0EsuJ4LGxXV14zQybNd4L2r0UvbVnSF9Af8x7p5MzbJ90Ioz/9TI41/hTCvznF/loiSzn8w==
